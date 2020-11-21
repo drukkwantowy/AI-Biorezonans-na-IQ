@@ -1,2 +1,2 @@
 # AI-Biorezonans-na-IQ
-Program na zwiększenie IQ
+Program na zwiększenie IQ w formie zapera.
